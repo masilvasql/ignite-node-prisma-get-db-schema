@@ -1,0 +1,26 @@
+{
+  "name": "ignite-node-prisma-get-db-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masilvasql/ignite-node-prisma-get-db-schema.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masilvasql/ignite-node-prisma-get-db-schema/issues"
+  },
+  "homepage": "https://github.com/masilvasql/ignite-node-prisma-get-db-schema#readme",
+  "dependencies": {
+    "@prisma/client": "^3.13.0",
+    "prisma": "^3.13.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.4"
+  }
+}
